@@ -1,0 +1,13 @@
+/* Hero section */
+.gradient-bg {
+   background: linear-gradient(
+      to bottom,
+      rgba(0, 0, 0, 0.4) 0%,
+      rgba(0, 0, 0, 0.4) 100%
+   );
+}
+
+/* Cards section */
+.card:hover .opacity-0 {
+   opacity: 1;
+}
